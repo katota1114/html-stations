@@ -1,10 +1,10 @@
 {
-  "name": "Station 05",
-  "id": 5,
+  "name": "Station 14",
+  "id": 14,
   "tests": [
     {
       "type": "junit-compat",
-      "command": "yarn playwright test station05",
+      "command": "yarn playwright test station14",
       "args": [],
       "shell": true
     }
